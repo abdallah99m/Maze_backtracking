@@ -1,0 +1,4 @@
+﻿  Source.cpp
+g:\projects\maze\maze\source.cpp(255): warning C4101: 'j': unreferenced local variable
+g:\projects\maze\maze\source.cpp(255): warning C4101: 'i': unreferenced local variable
+  MAZE.vcxproj -> G:\PROJECTS\MAZE\Debug\MAZE.exe
